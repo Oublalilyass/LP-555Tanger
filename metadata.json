@@ -1,0 +1,6 @@
+{
+  "name": "555 Tanger — New Year 2027",
+  "description": "New Year's Eve 2027 celebration at 555 Famous Club Tanger, Marina Bay. Live midnight countdown, exclusive holiday discounts, and VIP table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
